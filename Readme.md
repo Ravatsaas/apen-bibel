@@ -12,6 +12,13 @@ Bibelen tar utgangspunkt i Det Norske Bibelselskaps 1930-oversettelse; den klass
 
 Vi har valgt å bruke Markdown-formatet for å gjøre det enkelt å bidra med endringer selv om du ikke er spesielt teknisk kyndig.
 
+Det er til stor hjelp dersom du vil velge deg ut et kapittel og gjøre en eller flere av disse tingene:
+
+- Bytte ut gammeldagse ord og uttrykk 
+- Skrive om setninger som bruker gammeldags ordstilling
+- Dele inn teksten i avnitt og legge til overskrifter
+- Legge til innrykk og linjeskift der det mangler i salmer og andre poetiske tekster
+
 Du kan bidra til arbeidet ved å åpne issues med forslag og feil, eller ved å gjøre endringene selv i en fork og sende de tilbake via en pull request.
 
 ## Opphavsrett
