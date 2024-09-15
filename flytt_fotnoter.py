@@ -37,7 +37,8 @@ def move(chapter, content):
         
         print(cleaned_string.replace("*", f"[^{num}]", 1))
 
-    print()
+    if extracted:
+        print()
     for num, footnote in enumerate(extracted):
         print(f"[^{num + already}]: {footnote}")
 
