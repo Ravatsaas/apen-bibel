@@ -35,11 +35,13 @@ def move(chapter, content):
             while cleaned_string[-1] == " " or cleaned_string[-1] == "/":
                 cleaned_string = cleaned_string[:-1]
         
-        print(cleaned_string.replace("*", f"[^{num}]", 1))
+        print(cleaned_string.replace("*", f"[^{num}]", 1).replace("**", f"[^{num + 1}]", 1))
 
     if extracted:
         print()
     for num, footnote in enumerate(extracted):
+        if footnote.startswith("*"):
+            footnote = footnote[1:]
         print(f"[^{num + already}]: {footnote}")
 
 chapter = sys.argv[1]
