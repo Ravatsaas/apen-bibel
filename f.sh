@@ -1,4 +1,8 @@
 #!/bin/sh
 
-./flytt_fotnoter.py "$1" > /tmp/f
-mv /tmp/f "$1"
+for i in "$@"
+do
+	echo "$i"
+	./flytt_fotnoter.py "$i" > /tmp/f
+	mv /tmp/f "$i"
+done
