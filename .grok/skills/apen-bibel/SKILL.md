@@ -54,7 +54,7 @@ Vi moderniserer teksten ett kapittel av gangen, og følger en strukturert proses
 5. Skriv modernisert utkast — styrt av grunntekst + 1930,
 6. Rett tegnsetting: kolon før sitater, « » og ‘ ’
 7. Bruk kodeblokk for poetiske avsnitt, for eksempel Salmer, for å bevare linjeskift og rytme.
-8. Legg fotnoter [^n] ved skrifthenvisninger når det er naturlig
+8. Legg fotnoter [^n] ved skrifthenvisninger når det er naturlig (forkortelser: `Referanser/bibel-forkortelser.md`)
 9. Presenter endringene for diskusjon med brukeren
 10. Oppdater fremdriftstabellen i AGENTS.md
 ```

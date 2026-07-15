@@ -122,12 +122,14 @@ Eksempel (Salme 14):
 ```markdown
 34 For «…»[^1]
 
-[^1]:  JES 40, 13.
+[^1]:  Jes 40,13.
 ```
 
-- Bokforkortelser: `JES`, `JOB`, `1MO`, `SLM` osv.
-- Format: `BOK kapittel, vers.` med komma før versnummer.
+- Format: `Bok kapittel,vers` med **komma** mellom kapittel og vers (norsk skikk, ikke engelsk kolon).
+- Moderne forkortelser: `Sal`, `Jes`, `1 Mos`, `1 Krøn` — ikke `SLM`, `JES`, `1MO`, `1KR`.
+- Semikolon mellom flere steder: `1 Krøn 29,30; Sal 139,16.`
 - To mellomrom etter kolon i fotnotedefinisjon (eksisterende konvensjon).
+- **Full liste:** [Referanser/bibel-forkortelser.md](Referanser/bibel-forkortelser.md)
 
 ## Nyttige referanser
 
