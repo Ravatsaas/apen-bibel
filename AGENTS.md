@@ -44,6 +44,18 @@ Anta **Modus B** som standard for nye kapitler. Bruk Modus A når brukeren ber o
 - Behold 1930-formulering når brukeren eksplisitt vil være nær grunnteksten (f.eks. «kappes om å hedre» i Rom 12:10).
 - Diskuter *nidkjærhet* vs. *sjalusi/sjalu* kontekstavhengig — samme greske ordstamme kan ha ulik retning.
 
+### Frelse / redning
+
+I moderne bokmål brukes *frelse* ofte snevert (åndelig/evig frelse). I GT (og ofte i salmene) dekker hebraisk יָשַׁע / יְשׁוּעָה m.m. **konkret redning** (fiender, død, nød, krig) like mye som teologisk frelse.
+
+| Kontekst | Foretrekk | Eksempel |
+|----------|-----------|----------|
+| Konkret fare (fiender, død, sult, hær, hest) | *redning*, *redd*, *berge*, *utfri* | *redd meg fra fiendene*; *til redning* |
+| Soteriologisk (særlig NT: evangeliet, tro, «bli frelst») | *frelse*, *frelst* | Rom 1:16; 10:10 |
+| Faste gudstitler / klassisk poesi der *frelse* ikke misleder | *frelse* / *frelser* / *frelses Gud* kan stå | *mitt lys og min frelse*; *min frelses Gud* |
+
+**Ikke** bytt alle *frelse* til *redning* blindt. Velg etter kontekst: *redning* der moderne lesere ellers hører bare «sjelens frelse».
+
 ### Setningsstruktur — hva som typisk moderniseres
 
 Utover enkeltord: se etter arkaisk **ordstilling og syntaks** i 1930. Mønster avklart bl.a. i 2. Pet 1 og Romerne:
