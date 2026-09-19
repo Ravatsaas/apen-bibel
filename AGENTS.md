@@ -56,6 +56,14 @@ I moderne bokmål brukes *frelse* ofte snevert (åndelig/evig frelse). I GT (og 
 
 **Ikke** bytt alle *frelse* til *redning* blindt. Velg etter kontekst: *redning* der moderne lesere ellers hører bare «sjelens frelse».
 
+### «Sannelig»
+
+Ikke bruk *sannelig* for infinitivus absolutus eller andre ettertrykksformer (*surely* / *verily*). På moderne bokmål markerer ordet **overraskelse**, ikke styrke. Forsterk i stedet med verbgjentakelse (*samle deg, samle hele deg*), omvendt ordstilling, eller la det finite verbet stå.
+
+### Assur / Assyria
+
+Når אַשּׁוּר er **landet, folket eller riket**, skriv *Assyria* (ikke 1930s *Assur*). Behold *Assur* når det er **personnavn** (f.eks. Sems sønn, et patronymikon).
+
 ### Setningsstruktur — hva som typisk moderniseres
 
 Utover enkeltord: se etter arkaisk **ordstilling og syntaks** i 1930. Mønster avklart bl.a. i 2. Pet 1 og Romerne:
@@ -195,6 +203,30 @@ Eksempel (Salme 14):
 | 1 | Ferdig (modernisert + diskutert) |
 | 2 | Ferdig (modernisert + diskutert) |
 | 3 | Ferdig (modernisert + diskutert) |
+
+## Fremdrift — Salmene
+
+| Kapittel | Status |
+|----------|--------|
+| 1–37 | Modernisert |
+| 38 | Ferdig (modernisert + diskutert) |
+| 39 | Ferdig (modernisert + diskutert) |
+| 40 | Ferdig (modernisert + diskutert) |
+| 41 | Ferdig (modernisert + diskutert) |
+
+## Fremdrift — Mika
+
+**Ferdig** — alle 7 kapitler modernisert og diskutert.
+
+| Kapittel | Status |
+|----------|--------|
+| 1 | Ferdig (modernisert + diskutert) |
+| 2 | Ferdig (modernisert + diskutert) |
+| 3 | Ferdig (modernisert + diskutert) |
+| 4 | Ferdig (modernisert + diskutert) |
+| 5 | Ferdig (modernisert + diskutert) |
+| 6 | Ferdig (modernisert + diskutert) |
+| 7 | Ferdig (modernisert + diskutert) |
 
 Oppdater disse tabellene når kapittel er ferdig.
 

@@ -76,4 +76,5 @@ Vi moderniserer teksten ett kapittel av gangen, og følger en strukturert proses
 
 - **Kopiere andre oversettelser** — inspirasjon ja, ord-for-ord nei.
 - **Linjeskift** Ikke legg inn linjeskift etter hvert vers; behold flyten i avsnittet. Linjeskift skal kun være etter overskrifter og mellom avsnitt.
+- **Ordvalg og navn** — faste regler (*frelse*/*redning*, *sannelig*, *Assyria* …) og versvedtak står i `AGENTS.md`. Ikke dupliser dem her.
 - Ikke endre filer brukeren ikke ba om; ikke skriv nye markdown-filer uten forespørsel (unntatt AGENTS.md / skill ved eksplisitt oppdrag).
